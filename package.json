@@ -1,5 +1,5 @@
 {
-  "name": "Haruka-Md",
+  "name": "laynz-MD",
   "version": "11.0.0",
   "description": "whatsapp tob with multi device.",
   "main": "haruka.js",
@@ -15,7 +15,7 @@
     "2022",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "laynz",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys" : "npm:baileys-md@5.0.5",
